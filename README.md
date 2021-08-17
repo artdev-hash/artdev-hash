@@ -7,7 +7,7 @@ I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Dev
 - 🌱 I’m currently learning more Flutter & Dart
 - 💬 Let's talk about software, start-up, tech, happy to learn more about finance, investing..
 - ✈️ Open to Remote Job Opportunities 🍻
-- 📫 How to reach me: @devkimlorenzo
+- 📫 How to reach me: [@devkimlorenzo](https://twitter.com/devkimlorenzo)
 - ⚡ Fun fact: i do long :biking_man: rides, i can do eskrima and i love :ramen: ..
 
 <img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=visitors" align="right" />
