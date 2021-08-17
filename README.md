@@ -5,7 +5,7 @@ I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Dev
 
 - :rocket: I’m currently improving 1% everyday.. 
 - 🌱 I’m currently learning more Flutter & Dart
- 💬 Let's talk about software, start-up, tech, happy to learn more about finance, investing..
+- 💬 Let's talk about software, start-up, tech, happy to learn more about finance, investing..
 - ✈️ Open to Remote Job Opportunities 🍻
 - :man_technologist: Pronouns: he/him/his 
 
