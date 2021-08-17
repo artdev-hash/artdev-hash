@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Developer** :man_technologist aspiring to become an Expert in the field of **Mobile** development.
+I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Developer** :man_technologist: aspiring to become an Expert in the field of **Mobile** development.
 
-- :man_technologist Pronouns: he /him 
-- :rocket I’m currently improving 1% everyday.. 
+- :man_technologist: Pronouns: he /him 
+- :rocket: I’m currently improving 1% everyday.. 
 - 🌱 I’m currently learning more Flutter & Dart
 - ✈️ Open to Remote Job Opportunities 🍻
 
