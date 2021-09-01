@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Developer** 👨‍💻 aspiring to become an Expert in the field of **Mobile** development. 
-
 <br>
 
 - 👨‍💻 Pronouns: he/him/his 
