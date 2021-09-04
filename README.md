@@ -5,7 +5,7 @@ I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Dev
 
 - 👨‍💻 Pronouns: he/him/his 
 
-- 🚀 I’m currently improving 1% everyday.. 
+- 🚀 Improving 1% everyday.. 
 
 - 🌱 I’m currently learning more Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="13" height="12"/> & Dart <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="13" height="12"/> 
 
