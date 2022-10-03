@@ -33,7 +33,7 @@ I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Dev
 
 
 <center>
-[![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)]
+[![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
 </center>
 
 <!--
