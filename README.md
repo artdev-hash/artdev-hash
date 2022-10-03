@@ -31,6 +31,11 @@ I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Dev
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=visitors"/></p>
 
+
+<center>
+[![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)]
+</center>
+
 <!--
 **artdev-hash/artdev-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
