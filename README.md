@@ -2,7 +2,7 @@
 
 [![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
 
-I'm [Kim Arthur Lorenzo](https://twitter.com/devkimlorenzo), a **Self taught Developer** 👨‍💻 aspiring to become an Expert in the field of **Mobile** development. 
+I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Developer** 👨‍💻 aspiring to become an Expert in the field of **Mobile** development. 
 <br>
 
 - 👨‍💻 Pronouns: he/him/his.. 
