@@ -23,7 +23,7 @@ I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Dev
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=artdev-hash&theme=ads-juicy-fresh&border=61dafb&hide_border=true" alt="artdev-hash" />
     </a>
-    <a href="https://github.com/denvercoder1/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=artdev-hash&show_icons=true&theme=ocean_dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
