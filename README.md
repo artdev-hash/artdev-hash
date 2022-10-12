@@ -46,14 +46,12 @@ I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Dev
 <code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/devicon/devicon-original.svg" alt="devicon" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"><code>
-
-<br><br>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/devicon/devicon-original.svg" alt="devicon" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></code>
 
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=visitors"/></p>
