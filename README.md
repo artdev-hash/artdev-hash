@@ -53,7 +53,7 @@ I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Dev
 <code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"><code>
 <code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"><code>
 
-
+<br><br>
 
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=visitors"/></p>
