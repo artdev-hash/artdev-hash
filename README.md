@@ -47,11 +47,11 @@ I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Dev
 <code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/wordpress/wordpress-plain.svg" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/devicon/devicon-original.svg" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" width="40" height="40"><code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" width="40" height="40"><code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/devicon/devicon-original.svg" alt="devicon" width="40" height="40"><code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"><code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"><code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"><code>
+<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"><code>
 
 
 
