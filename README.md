@@ -2,6 +2,8 @@
 
 [![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF710FF&width=435&lines=Developer;Curious%2C+Hungry%2C+Learner;Technology%2C+Finance%2C+Investing)](https://git.io/typing-svg)
+
 I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Developer** 👨‍💻 aspiring to become an Expert in the field of **Mobile** development. 
 <br>
 
