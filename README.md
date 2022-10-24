@@ -31,12 +31,14 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)**, a **Self taught
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=artdev-hash&show_icons=true&theme=ocean_dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  </p>
 <br><br><br><br><br><br><br><br>
 
 
   - **:writing_hand:** **Connect with me :** <a href="https://dev.to/artdevhash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="artdev-hash" height="30" width="40" /></a><a href="https://twitter.com/devkimlorenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="artdev-hash" height="30" width="40" /></a>
 
 - **:desktop_computer:** **Language and Tools :**
+<br>
 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
