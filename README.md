@@ -18,7 +18,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 
 - **:mailbox_with_mail:** How to reach me : [@devkimlorenzo](https://twitter.com/devkimlorenzo)
 
-- **:smile_cat:** Fun fact : love coffee :coffee:, love mountainbike :biking_man: rides, can do eskrima :martial_arts_uniform: and i love ramen :ramen: ..
+- **:smile_cat:** Fun fact : i love drinking coffee **:coffee:**, loves mountainbike **:biking_man:** rides, can do a bit eskrima **:martial_arts_uniform:** and daisuki ramen **:ramen:** ..
 
  - **💻 Github Stats** 
  
