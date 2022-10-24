@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF710FF&width=435&lines=Developer;Curious%2C+Hungry%2C+Learner;Technology%2C+Finance%2C+Investing)](https://git.io/typing-svg)
 
-I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Developer** 👨‍💻 aspiring to become an Expert in the field of **Mobile** development. 
+I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)**, a **Self taught Developer** 👨‍💻 aspiring to become an Expert in the field of **Mobile** :iphone: Development. 
 <br>
 
 - 👨‍💻 Pronouns: he/him/his.. 
@@ -19,7 +19,7 @@ I'm [Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/), a **Self taught Dev
 
 - ⚡ Fun fact : love mountainbike 🚴‍♂️ rides, can do eskrima 🥋 and i love ramen 🍜 ..
 
- - 💻 Stats 
+ - **💻 Github Stats** 
 <p align="center">
   <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
