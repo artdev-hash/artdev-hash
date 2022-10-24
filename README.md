@@ -1,4 +1,4 @@
-### Hi there **:wave:**
+### **Hi there** **:wave:**
 
 [![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
 
