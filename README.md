@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF710FF&width=435&lines=Developer;Curious%2C+Hungry%2C+Learner;Technology%2C+Finance%2C+Investing)](https://git.io/typing-svg)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=Profile Views"/></p>
 
-I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)**, a **Self taught Developer** :man_technologist: aspiring to become an Expert in the field of **Mobile** :iphone: Development. 
+I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:** , a **Self taught Developer** :man_technologist: aspiring to become an Expert in the field of **Mobile** :iphone: Development. 
 <br>
 
 - **:man_technologist:** Pronouns: he/him/his.. 
@@ -18,7 +18,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)**, a **Self taught
 
 - **:mailbox_with_mail:** How to reach me : [@devkimlorenzo](https://twitter.com/devkimlorenzo)
 
-- **:writing_hand:** Fun fact : love coffee :coffee:, love mountainbike :biking_man: rides, can do eskrima :martial_arts_uniform: and i love ramen :ramen: ..
+- **:smile_cat:** Fun fact : love coffee :coffee:, love mountainbike :biking_man: rides, can do eskrima :martial_arts_uniform: and i love ramen :ramen: ..
 
  - **💻 Github Stats** 
  
