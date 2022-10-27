@@ -20,7 +20,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 
 - **:smile_cat:** Fun fact : i love drinking coffee **:coffee:**, loves mountainbike **:biking_man:** rides, can do a bit eskrima **:martial_arts_uniform:** and daisuki ramen **:ramen:** ..
 
- - **💻 Github Stats** 
+ - **:desktop_computer:** **Github Stats** 
  
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
