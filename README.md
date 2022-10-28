@@ -32,7 +32,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
         <a href="https://www.lorenzokimarthur.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg" alt="artdev-hash" height="30" width="40" /></a>
          <a href="https://dev.to/artdevhash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="artdev-hash" height="30" width="40" /></a>  <a href="https://twitter.com/devkimlorenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="artdev-hash" height="30" width="40" /></a>
 
-- **:desktop_computer:** **Language and Tools :**
+- **:desktop_computer:** **Some Languages and Tools, i have Learned :**
 
 <code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="30" height="30"/></code>
