@@ -9,7 +9,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 
 ### Field Experience
 
-- **:man_technologist:** Computer Science / Information Technology, Accounting and Treasury, Banking, Hospital
+- **:man_technologist:** Computer Science, Information Technology, Accounting and Treasury, Banking, Hospital, Enterprise
 
 ### Read, Collaborate, Follow
 
