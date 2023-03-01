@@ -16,18 +16,12 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://tree-nation.com/trees/view/4050126" target="blank"><img align="center" src="./src/img/treenation.png" alt="artdev-hash" height="30" width="30" /><a href="https://www.lorenzokimarthur.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg" alt="artdev-hash" height="30" width="40" /></a>
          <a href="https://dev.to/artdevhash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="artdev-hash" height="30" width="40" /></a>  <a href="https://twitter.com/devkimlorenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="artdev-hash" height="30" width="40" /></a>
 
-### Github
-
-- **:rocket:** Improving 1% everyday.. 
-- **:speech_balloon:** Let's talk about software, start-up, tech, happy to learn more about finance, investing..
-- **:smile_cat:** Fun fact : i love drinking coffee **:coffee:**, loves mountainbike **:biking_man:** rides, can do a bit eskrima **:martial_arts_uniform:** and daisuki ramen **:ramen:** ..
-
- - **:desktop_computer:** **Github Stats** 
- 
-
+### Github **:desktop_computer:**
+<br>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=artdev-hash&show_icons=true&theme=ocean_dark&border_color=61dafb&hide_border=true" />
     </a>
+    
 <br><br><br><br><br><br><br>
 
 
