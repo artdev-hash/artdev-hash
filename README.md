@@ -17,11 +17,11 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
          <a href="https://dev.to/artdevhash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="artdev-hash" height="30" width="40" /></a>  <a href="https://twitter.com/devkimlorenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="artdev-hash" height="30" width="40" /></a>
 
 ### Github **:desktop_computer:**
-<br>
+-
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=artdev-hash&show_icons=true&theme=ocean_dark&border_color=61dafb&hide_border=true" />
     </a>
-    
+
 <br><br><br><br><br><br><br>
 
 
