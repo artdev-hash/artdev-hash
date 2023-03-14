@@ -25,36 +25,8 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 <br><br><br><br><br><br><br>
 
 
-- **:desktop_computer:** **Some Languages and Tools, i have Learned :**
-
-<code><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="30" height="30"/></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="javascript" width="30" height="30"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node js" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue js" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/wordpress/wordpress-plain.svg" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/devicon/devicon-original.svg" alt="devicon" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="aftereffects" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/appwrite/appwrite-original.svg" alt="appwrite" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="30" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/artdev-hash/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="30" height="30"></code>
+- **:desktop_computer:** **Technologies :**<br>
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,devto,github,linux,bash,md,html,css,dotnet,php,mysql,js,wordpress,nodejs,flutter,dart,vue,vite,)](https://skillicons.dev)
 
 [![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
 
