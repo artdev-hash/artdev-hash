@@ -26,7 +26,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 
 
 - **:desktop_computer:** **Technologies :**<br>
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,devto,github,linux,bash,md,html,css,dotnet,php,mysql,js,wordpress,nodejs,flutter,dart,vue,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,devto,linux,bash,md,html,css,dotnet,php,mysql,js,wordpress,nodejs,flutter,dart,vue,vite,firebase,cloudflare,tailwindcss,mongodb)](https://skillicons.dev)
 
 [![@devguy05's Holopin board](https://holopin.io/api/user/board?user=devguy05)](https://holopin.io/@devguy05)
 
