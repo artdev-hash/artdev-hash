@@ -5,7 +5,7 @@ I'm **[Kim Arthur Lorenzo](https://www.lorenzokimarthur.com/)** **:eyeglasses:**
 - **:telescope:** I'm currently learning <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue js" width="13" height="12"/> vue js. 
 - **:seedling:** I've made several contributions to open source, including a Tree from <a href="https://tree-nation.com/trees/view/4050126" target="blank"> Tree Nation </a>
 - **:zap:** Besides contributing to open source I enjoy tinkering computers, hardware hacking, and software development in general.
-- **:mailbox_with_mail:** How to reach me : [@devkimlorenzo](https://twitter.com/devkimlorenzo)
+- **:mailbox_with_mail:** Email : dev@lorenzokimarthur.com
 
 ### Field Experience
 
