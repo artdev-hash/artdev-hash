@@ -37,4 +37,5 @@ const artdev-hash = {
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188AF7FF&width=435&lines=Developer;Curious%2C+Hungry%2C+Learner;Technology%2C+Finance%2C+Investing)](https://git.io/typing-svg)
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=artdev-hashf&color=blue&style=flat-square&label=Profile Views"/></p>
+
+![](https://komarev.com/ghpvc/?username=artdev-hash&color=orange)
