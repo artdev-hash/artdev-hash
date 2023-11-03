@@ -30,6 +30,9 @@ const artdev-hash = {
 };
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artdev-hash&layout=pie)](https://github.com/artdev-hash/github-readme-stats)
+
+
 [![An image of @devguy05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devguy05)](https://holopin.io/@devguy05)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188AF7FF&width=435&lines=Developer;Curious%2C+Hungry%2C+Learner;Technology%2C+Finance%2C+Investing)](https://git.io/typing-svg)
