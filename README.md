@@ -10,10 +10,11 @@
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```json
+```javascript
 - Sharpening my Programming Knowledge..
 - Developing other skills outside my comfort zone..
-- Besides contributing to open source I enjoy tinkering computers, hardware hacking, and software development in general.
+- Besides contributing to open source I enjoy tinkering computers,
+- Hardware hacking, and software development in general.
 ```
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
