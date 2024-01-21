@@ -1,4 +1,37 @@
-### <h2>**Hi there** **:wave:**</h2>
+<img src="./src/img/IntroGithub.gif" width="100%">
+
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- a **Self taught Developer** :man_technologist: aspiring to become an Expert in the field of **Mobile** :iphone: Development.
+-  Always Curious, Hungry and Learning 
+- 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/artdev-hash/dev.kimlor)
+- 🖥 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Manjaro [<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/manjaro.svg" height="30em" align="center" alt="Manjaro Linux Logo" title="ManjaroLinux Logo"/>](https://manjaro.org/)
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```json
+- Sharpening my Programming Knowledge..
+- Developing other skills outside my comfort zone..
+- Besides contributing to open source I enjoy tinkering computers, hardware hacking, and software development in general.
+```
+- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
+- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+	- Travel Freely around the Globe with my Family without worrying expenses
+    - Be a Known Developer
+    - Work at Google [ any popular company in tech industry @ abroad ]
+	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
+
+
+#
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+ <a href="https://tree-nation.com/trees/view/4050126" target="blank"><img align="center" src="./src/img/treenation.png" alt="artdev-hash" height="30" width="30" /><a href="https://www.lorenzokimarthur.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg" alt="artdev-hash" height="30" width="40" /></a>
+         <a href="https://dev.to/artdevhash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="artdev-hash" height="30" width="40" /></a>  <a href="https://twitter.com/devkimlorenzo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="artdev-hash" height="30" width="40" /></a>
+
+
+### <h2>**Tech Input**</h2>
 
 ```javascript
 const artdev-hash = {
