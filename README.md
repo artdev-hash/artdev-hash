@@ -4,7 +4,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - a **Self taught Developer** :man_technologist: aspiring to become an Expert in the field of **Mobile** :iphone: Development.
 -  Always Curious, Hungry and Learning 
-- 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/artdev-hash/dev.kimlor)
+- 💼 Developing open source and other projects
 - 🖥 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Manjaro [<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/manjaro.svg" height="30em" align="center" alt="Manjaro Linux Logo" title="ManjaroLinux Logo"/>](https://manjaro.org/)
 
