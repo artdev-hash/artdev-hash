@@ -29,8 +29,7 @@
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 <a href="mailto:dev@lorenzokimarthur.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://tree-nation.com/trees/view/4050126" target="blank"><img align="center" src="./src/img/treenation.png" alt="artdev-hash" height="30" width="30" />
-<a href="https://www.lorenzokimarthur.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg" alt="artdev-hash" height="30" width="40" /></a>
+<a href="https://tree-nation.com/trees/view/4050126" target="blank"><img align="center" src="./src/img/treenation.png" alt="artdev-hash" height="30" width="30" /><a href="https://www.lorenzokimarthur.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vue-dot-js.svg" alt="artdev-hash" height="30" width="40" /></a>
 <a href="https://dev.to/artdevhash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="artdev-hash" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kimITservices" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="artdev-hash" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCP2psTOak3Z60eQj1wq--cg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="artdev-hash" height="30" width="40" /></a>
