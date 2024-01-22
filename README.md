@@ -3,7 +3,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - a **Self taught Developer** :man_technologist: aspiring to become an Expert in the field of **Mobile** :iphone: Development.
--  Always Curious, Hungry and Learning 
+- 📲 Always Curious, Hungry and Learning 
 - 💼 Developing open source and other projects
 - 🖥 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Manjaro [<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/manjaro.svg" height="30em" align="center" alt="Manjaro Linux Logo" title="ManjaroLinux Logo"/>](https://manjaro.org/)
@@ -36,7 +36,7 @@
 <a href="https://www.youtube.com/channel/UCP2psTOak3Z60eQj1wq--cg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="artdev-hash" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/kimdevprc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="artdev-hash" height="30" width="40" /></a>
 
-### <h2>** 💻 Tech Input**</h2>
+### <h2>💻 Tech Input</h2>
 
 ```javascript
 const artdev-hash = {
