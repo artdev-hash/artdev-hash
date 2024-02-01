@@ -11,7 +11,7 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```javascript
-- Enrolled to Contact Center Course @CMDC while
+- Enrolled to Contact Center Service @CMDC whiles
 - Sharpening my Programming Knowledge..
 - Developing other skills outside my comfort zone..
 - Besides contributing to open source I enjoy tinkering computers,
