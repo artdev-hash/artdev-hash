@@ -36,40 +36,7 @@
 <a href="https://www.youtube.com/channel/UCP2psTOak3Z60eQj1wq--cg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="artdev-hash" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/kimdevprc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="artdev-hash" height="30" width="40" /></a>
 
-### <h2>💻 Tech Input</h2>
-
-```javascript
-const artdev-hash = {
-    pronouns: "He" | "Him",
-    code: [VUE, JAVASCRIPT, HTML, CSS, PHP, PYTHON, DART, FLUTTER],
-    askMeAbout: ["web dev", "tech", "app dev", "startup"],
-    technologies: {
-        backEnd: {
-            js: ["Node"]
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS"],
-        databases: ["mssqlserver", "mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "Laravel"]
-    },
-    architecture: ["Progressive web app", "Single page app", "Software Application"],
-    emailme:"dev@lorenzokimarthur.com",
-    siteurl:"https://lorenzokimarthur.com",
-    currentFocus: "Tinker, Build, Launching Stuff",
-    mytree:"tree-nation.com/trees/view/4050126",
-    profiles:[
-      "https://bio.link/kimlorenzo"
-    ],
-    funFact: "Coding can “power up” your brain",
-    message: ["If you love this.. maybe you can show some support..",
-    "Thank you.."] 
-};
-```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artdev-hash&layout=pie)](https://github.com/artdev-hash/github-readme-stats)
-
+---
 
 [![An image of @devguy05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devguy05)](https://holopin.io/@devguy05)
 
