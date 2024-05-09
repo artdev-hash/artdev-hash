@@ -11,8 +11,8 @@
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```javascript
-- Enrolled at CMDC - Calamba Manpower Development Center while
-- Sharpening my Programming Knowledge..
+- Adding more programming skills to my stack.
+- I recently completed a technical course at CMDC - Calamba Manpower Development Center
 - Developing other skills outside my comfort zone..
 - Besides contributing to open source I enjoy tinkering computers,
 - Hardware hacking, and software development in general.
